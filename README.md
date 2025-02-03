@@ -1,4 +1,4 @@
-## 💜 Olá, me chamo Matheus!
+## 💻 Olá, me chamo Matheus!
 
 Sou desenvolvedor iniciante apaixonado por programação e criação de sistemas eficientes. Atualmente, estou aprendendo e explorando novas tecnologias, especialmente na stack de **Java**, **MySQL** e desenvolvimento de interfaces gráficas com **Swing**.
 
