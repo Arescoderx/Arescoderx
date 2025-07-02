@@ -1,41 +1,10 @@
 # 👩🏻‍💻 Matheus Schmidt
 
-**`Desenvolvedora FullStack`**
+**`Futuro Desenvolvedor FullStack`**
 
 Me chamo Matheus Miossi Shmidt, tenho 17 anos e sou natural do Espírito Santo. Estou concluindo o Ensino Médio e finalizando meu curso técnico em Análise e Desenvolvimento de Sistemas pelo SENAI. Desde pequeno, sou apaixonado por tecnologia — sempre tive curiosidade em entender como as coisas funcionam e sonhei em transformar essa paixão em carreira.
 
 Sou uma pessoa movida por desafios e grandes objetivos. Sempre busquei dar o meu melhor em tudo que me proponho a fazer, procurando evoluir constantemente tanto no aspecto pessoal quanto profissional. Acredito que o esforço, a dedicação e o aprendizado contínuo são as chaves para alcançar o sucesso.
-
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
@@ -115,7 +84,7 @@ Sou uma pessoa movida por desafios e grandes objetivos. Sempre busquei dar o meu
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arescoderx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
