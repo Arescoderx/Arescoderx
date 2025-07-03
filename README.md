@@ -76,7 +76,7 @@ Sou uma pessoa movida por desafios e grandes objetivos. Sempre busquei dar o meu
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170" 
+    height="175" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Arescoderx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -84,7 +84,7 @@ Sou uma pessoa movida por desafios e grandes objetivos. Sempre busquei dar o meu
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arescoderx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
