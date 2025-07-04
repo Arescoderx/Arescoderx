@@ -46,9 +46,9 @@ Sou uma pessoa movida por desafios e grandes objetivos. Sempre busquei dar o meu
     align="left" 
     alt="Next.js" 
     title="Next.js"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
 />
 <img 
     align="left" 
