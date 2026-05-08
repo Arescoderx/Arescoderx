@@ -2,7 +2,7 @@
 
 **`Futuro Desenvolvedor FullStack`**
 
-Me chamo Matheus Miossi Shmidt, tenho 17 anos e sou natural do Espírito Santo. Estou concluindo o Ensino Médio e finalizando meu curso técnico em Análise e Desenvolvimento de Sistemas pelo SENAI. Desde pequeno, sou apaixonado por tecnologia — sempre tive curiosidade em entender como as coisas funcionam e sonhei em transformar essa paixão em carreira.
+Me chamo Matheus Miossi Shmidt, tenho 18 anos e sou natural do Espírito Santo. Estou concluindo o Ensino Médio e finalizando meu curso técnico em Análise e Desenvolvimento de Sistemas pelo SENAI. Desde pequeno, sou apaixonado por tecnologia — sempre tive curiosidade em entender como as coisas funcionam e sonhei em transformar essa paixão em carreira.
 
 Sou uma pessoa movida por desafios e grandes objetivos. Sempre busquei dar o meu melhor em tudo que me proponho a fazer, procurando evoluir constantemente tanto no aspecto pessoal quanto profissional. Acredito que o esforço, a dedicação e o aprendizado contínuo são as chaves para alcançar o sucesso.
 
