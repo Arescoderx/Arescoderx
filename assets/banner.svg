@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">Matheus Schmidt — Desenvolvedor Full Stack em formação</title>
+  <desc id="desc">Banner em azul e lilás com uma janela de código. Espírito Santo, Brasil. Tecnologia, curiosidade e evolução.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#131b35"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#60a5fa"/><stop offset="0.55" stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#6366f1" stop-opacity="0.21"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#a5b4fc" stroke-opacity="0.055" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1280" height="400" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="400" rx="24" fill="url(#grid)"/>
+  <ellipse cx="1090" cy="180" rx="440" ry="300" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1278" height="398" rx="23" fill="none" stroke="#a5b4fc" stroke-opacity="0.15"/>
+  <path d="M60 46H180" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <text x="60" y="83" fill="#a5b4fc" font-family="DejaVu Sans Mono,monospace" font-size="13" letter-spacing="3">CURIOSIDADE → CÓDIGO → EVOLUÇÃO</text>
+  <text x="57" y="168" fill="#f4f6ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="61" font-weight="700" letter-spacing="-2.4">Matheus Schmidt<tspan fill="#a78bfa">.</tspan></text>
+  <text x="60" y="221" fill="#c5cee5" font-family="DejaVu Sans,Arial,sans-serif" font-size="25">Desenvolvedor Full Stack</text>
+  <text x="60" y="256" fill="#a5b4fc" font-family="DejaVu Sans,Arial,sans-serif" font-size="25">em formação</text>
+  <circle cx="67" cy="331" r="4" fill="#67e8f9"/>
+  <text x="83" y="336" fill="#95a4c4" font-family="DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.1">ESPÍRITO SANTO / BRASIL</text>
+  <g transform="translate(746,68)">
+    <rect width="474" height="264" rx="15" fill="#090f20" stroke="#a5b4fc" stroke-opacity="0.24"/>
+    <path d="M0 47H474" stroke="#25304a"/>
+    <circle cx="23" cy="24" r="5" fill="#fb7185"/><circle cx="42" cy="24" r="5" fill="#fbbf24"/><circle cx="61" cy="24" r="5" fill="#34d399"/>
+    <text x="95" y="29" fill="#8492b0" font-family="DejaVu Sans Mono,monospace" font-size="12">matheus.js</text>
+    <g font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#d9e2f7">
+      <g fill="#445373" font-size="12"><text x="23" y="87">01</text><text x="23" y="120">02</text><text x="23" y="153">03</text><text x="23" y="186">04</text><text x="23" y="219">05</text></g>
+      <text x="61" y="87"><tspan fill="#a78bfa">const</tspan> perfil = {</text>
+      <text x="80" y="120">foco: <tspan fill="#67e8f9">'Full Stack'</tspan>,</text>
+      <text x="80" y="153">origem: <tspan fill="#67e8f9">'Espírito Santo'</tspan>,</text>
+      <text x="80" y="186">status: <tspan fill="#67e8f9">'em formação'</tspan></text>
+      <text x="61" y="219">};<tspan fill="#a78bfa"> ▎</tspan></text>
+    </g>
+  </g>
+  <path d="M746 354H905L927 376H1220" stroke="url(#accent)" stroke-opacity="0.6" stroke-width="1.5" fill="none"/>
+  <circle cx="746" cy="354" r="3" fill="#a78bfa"/><circle cx="1220" cy="376" r="3" fill="#67e8f9"/>
+</svg>
