@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-labelledby="title description">
+<title id="title">Matheus Schmidt — Desenvolvedor Full Stack em formação</title>
+<desc id="description">Banner com nome em destaque, monograma MS, órbitas animadas e um terminal. Espírito Santo, Brasil. Curso técnico de Análise e Desenvolvimento de Sistemas no SENAI.</desc>
+<defs>
+  <clipPath id="frame"><rect width="1280" height="560" rx="24"/></clipPath>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#060C18"/><stop offset="1" stop-color="#101A32"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#67E8F9"/><stop offset="0.52" stop-color="#818CF8"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+  <radialGradient id="violet"><stop stop-color="#8B5CF6" stop-opacity="0.24"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="cyan"><stop stop-color="#22D3EE" stop-opacity="0.13"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="0.75" fill="#A5B4FC" fill-opacity="0.13"/></pattern>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1280" height="560" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="1278" height="558" rx="23" fill="none" stroke="#30405F" stroke-opacity="0.6"/>
+<rect x="2" y="2" width="1276" height="556" rx="22" fill="url(#dots)"/>
+<ellipse cx="980" cy="270" rx="365" ry="295" fill="url(#violet)"><animate attributeName="opacity" values="0.7;1;0.7" dur="8s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="230" cy="480" rx="340" ry="140" fill="url(#cyan)"/>
+<path d="M38 77H1242" stroke="#26324B"/>
+<rect x="38" y="30" width="33" height="27" rx="7" fill="#1B2440" stroke="#525879"/>
+<text x="54.5" y="48" fill="#67E8F9" text-anchor="middle" font-family="DejaVu Sans Mono,monospace" font-size="12" font-weight="bold">&lt;/&gt;</text>
+<text x="86" y="49" fill="#CDD7EB" font-family="DejaVu Sans Mono,monospace" font-size="14" letter-spacing="1.8">MATHEUS / DEV</text>
+<rect x="933" y="29" width="309" height="31" rx="15.5" fill="#141E34" stroke="#344266"/>
+<circle cx="952" cy="44.5" r="3.5" fill="#67E8F9"/>
+<text x="968" y="49" fill="#B7C5E1" font-family="DejaVu Sans Mono,monospace" font-size="11.5" letter-spacing="0.65">FULL STACK / EM FORMAÇÃO</text>
+<text x="60" y="133" fill="#7F92B4" font-family="DejaVu Sans Mono,monospace" font-size="12" letter-spacing="3">// PRAZER, EU SOU</text>
+<text x="54" y="231" fill="#F3F6FF" font-family="DejaVu Sans,Arial,sans-serif" font-size="87" font-weight="700" letter-spacing="-3">MATHEUS</text>
+<text x="54" y="326" fill="url(#accent)" font-family="DejaVu Sans,Arial,sans-serif" font-size="87" font-weight="700" letter-spacing="-3">SCHMIDT<tspan fill="#67E8F9">.</tspan></text>
+<text x="60" y="380" fill="#C0CDE5" font-family="DejaVu Sans,Arial,sans-serif" font-size="23">Transformando curiosidade</text>
+<text x="60" y="413" fill="#C0CDE5" font-family="DejaVu Sans,Arial,sans-serif" font-size="23">em aplicações.</text>
+<rect x="60" y="458" width="237" height="34" rx="8" fill="#101C2D" stroke="#29405B"/>
+<path d="M77 468a5 5 0 0 1 5 5c0 4-5 8-5 8s-5-4-5-8a5 5 0 0 1 5-5z" fill="none" stroke="#67E8F9" stroke-width="1.3"/><circle cx="77" cy="473" r="1.4" fill="#67E8F9"/>
+<text x="93" y="479" fill="#AABBD4" font-family="DejaVu Sans Mono,monospace" font-size="10.5" letter-spacing="0.5">ESPÍRITO SANTO / BRASIL</text>
+<rect x="312" y="458" width="147" height="34" rx="8" fill="#19182D" stroke="#383050"/>
+<text x="385.5" y="479" text-anchor="middle" fill="#C4B5FD" font-family="DejaVu Sans Mono,monospace" font-size="11.5" letter-spacing="0.7">SENAI / ADS</text>
+<g transform="translate(974 270)">
+  <circle r="173" fill="none" stroke="#C084FC" stroke-opacity="0.17"/>
+  <circle r="146" fill="none" stroke="#67E8F9" stroke-opacity="0.10" stroke-dasharray="2 9"/>
+  <ellipse rx="203" ry="103" transform="rotate(-28)" fill="none" stroke="#7C8CC6" stroke-opacity="0.31"/>
+  <g id="orbit-spin" transform="rotate(0)">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+    <circle r="173" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="92 995"/>
+    <circle cx="173" cy="0" r="4.5" fill="#67E8F9"/>
+    <circle cx="-86.5" cy="-149.8" r="3" fill="#C084FC"/>
+  </g>
+  <path d="M0-82L71-41V41L0 82L-71 41V-41Z" fill="#101A30" stroke="url(#accent)" stroke-width="1.8"/>
+  <path d="M0-69L60-34.5V34.5L0 69L-60 34.5V-34.5Z" fill="#0B1428" stroke="#293653"/>
+  <text y="18" text-anchor="middle" fill="#EDF3FF" font-family="DejaVu Sans,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-3">MS</text>
+  <text y="113" text-anchor="middle" fill="#7E8EAE" font-family="DejaVu Sans Mono,monospace" font-size="10" letter-spacing="3">APRENDER · CRIAR</text>
+</g>
+<g id="chip-top" transform="translate(0 0)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="8s" repeatCount="indefinite"/>
+  <rect x="792" y="117" width="100" height="50" rx="11" fill="#121D33" stroke="#58628B"/>
+  <text x="842" y="149" text-anchor="middle" fill="#67E8F9" font-family="DejaVu Sans Mono,monospace" font-size="22">&lt;/&gt;</text>
+</g>
+<g id="chip-side" transform="translate(0 0)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 6;0 0" dur="8s" repeatCount="indefinite"/>
+  <rect x="1131" y="304" width="81" height="49" rx="11" fill="#201C37" stroke="#655087"/>
+  <text x="1171.5" y="337" text-anchor="middle" fill="#D8B4FE" font-family="DejaVu Sans Mono,monospace" font-size="24">{ }</text>
+</g>
+<g>
+  <rect x="729" y="431" width="481" height="94" rx="12" fill="#080F1D" stroke="#3C4864"/>
+  <circle cx="748" cy="451" r="3.5" fill="#FB7185"/><circle cx="761" cy="451" r="3.5" fill="#FBBF24"/><circle cx="774" cy="451" r="3.5" fill="#34D399"/>
+  <text x="790" y="455" fill="#667C9E" font-family="DejaVu Sans Mono,monospace" font-size="10">jornada.js</text>
+  <text x="749" y="483" fill="#9CAFD0" font-family="DejaVu Sans Mono,monospace" font-size="12"><tspan fill="#67E8F9">&gt; </tspan>const jornada = ['aprender', 'criar'];</text>
+  <text x="749" y="506" fill="#9CAFD0" font-family="DejaVu Sans Mono,monospace" font-size="12"><tspan fill="#C084FC">&gt; </tspan>jornada.push('evoluir');<tspan id="cursor" fill="#67E8F9"> ▎<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.49;0.5;0.99;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+</g>
+<path d="M60 531H272" stroke="url(#accent)" stroke-width="2"/>
+</g>
+</svg>

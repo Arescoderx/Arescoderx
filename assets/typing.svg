@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="76" viewBox="0 0 1280 76" role="img" aria-labelledby="title">
+<title id="title">Aprendendo. Criando. Evoluindo.</title>
+<defs><clipPath id="typing"><rect x="413" y="12" width="455" height="52"><animate attributeName="width" values="455;0;455;455;0;0" keyTimes="0;0.05;0.4;0.82;0.95;1" dur="9s" repeatCount="indefinite"/></rect></clipPath></defs>
+<rect x="1" y="1" width="1278" height="74" rx="14" fill="#0B1424" stroke="#263753"/>
+<g clip-path="url(#typing)"><text x="413" y="46" font-family="DejaVu Sans Mono,monospace" font-size="24" fill="#B8C4F5"><tspan fill="#67E8F9">&gt; </tspan>aprendendo. criando. evoluindo.</text></g>
+<rect x="868" y="26" width="2.5" height="27" fill="#67E8F9"><animate attributeName="x" values="868;413;868;868;413;413" keyTimes="0;0.05;0.4;0.82;0.95;1" dur="9s" repeatCount="indefinite"/></rect>
+</svg>

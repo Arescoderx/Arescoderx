@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="98" viewBox="0 0 1280 98" role="img" aria-labelledby="title">
+<title id="title">Curiosidade para começar. Dedicação para continuar.</title>
+<defs><linearGradient id="line"><stop stop-color="#67E8F9" stop-opacity="0"/><stop offset="0.5" stop-color="#A78BFA"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="1278" height="96" rx="16" fill="#0B1424" stroke="#273753"/>
+<path d="M40 2H1240" stroke="url(#line)" stroke-width="2"/>
+<text x="640" y="44" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" fill="#C7D2FE">Curiosidade para começar. Dedicação para continuar.</text>
+<text x="640" y="71" text-anchor="middle" font-family="DejaVu Sans Mono,monospace" font-size="12" letter-spacing="2" fill="#7E93B6">MATHEUS SCHMIDT · UM PROJETO DE CADA VEZ</text>
+</svg>
